@@ -1,0 +1,5 @@
+*.c linguist-language=shell
+*.js linguist-language=shell
+*.css linguist-language=shell
+*.html linguist-language=shell
+*.java linguist-language=shell
