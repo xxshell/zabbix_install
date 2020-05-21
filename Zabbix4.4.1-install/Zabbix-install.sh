@@ -22,7 +22,7 @@ echo "#                                                                     #"
 echo "#                    正在软件与编译环境 请稍等~                       #"
 echo "#                                                                     #"
 echo "#######################################################################"
-rpm -Uvh zabbix_APP_RPM/*.rpm --force
+rpm -Uvh zabbix_APP_RPM/*.rpm --force --nodeps
 #rpm安装httpd、php、Mysql、编译环境等
 echo "#######################################################################"
 echo "#                                                                     #"
